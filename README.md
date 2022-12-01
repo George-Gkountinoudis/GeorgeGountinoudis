@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GeorgeGountinoudis
-- 👀 I’m interested in Software Engineering, try to figure out my calling
-- 🌱 I’m currently learning the Git and serving in army
-- 📫 How to reach me -> You can e-mail me at: georgegountinoudis@gmail.com
+- 👋 Hi, I’m @GeorgeGountinoudis, a Software Engineer graduated from University of Thessaly
+- 👀 I’m interested in Open Source projects as well as projects that will expand my overall knowledge of programming
+- 🌱 I’m currently learning the Git and doing my military service
+- 📫 How to reach me by e-mail at: georgegountinoudis@gmail.com or a message at my Linked-In profile: George Gountinoudis
 
 <!---
 GeorgeGountinoudis/GeorgeGountinoudis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
